@@ -1,0 +1,42 @@
+E:\projects\Web\B2B\MASAB2B\DAL\bin\Release\net6.0\DAL.deps.json
+E:\projects\Web\B2B\MASAB2B\DAL\bin\Release\net6.0\DAL.runtimeconfig.json
+E:\projects\Web\B2B\MASAB2B\DAL\bin\Release\net6.0\DAL.dll
+E:\projects\Web\B2B\MASAB2B\DAL\bin\Release\net6.0\DAL.pdb
+E:\projects\Web\B2B\MASAB2B\DAL\obj\Release\net6.0\DAL.csproj.AssemblyReference.cache
+E:\projects\Web\B2B\MASAB2B\DAL\obj\Release\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\Web\B2B\MASAB2B\DAL\obj\Release\net6.0\DAL.AssemblyInfoInputs.cache
+E:\projects\Web\B2B\MASAB2B\DAL\obj\Release\net6.0\DAL.AssemblyInfo.cs
+E:\projects\Web\B2B\MASAB2B\DAL\obj\Release\net6.0\DAL.csproj.CoreCompileInputs.cache
+E:\projects\Web\B2B\MASAB2B\DAL\obj\Release\net6.0\DAL.dll
+E:\projects\Web\B2B\MASAB2B\DAL\obj\Release\net6.0\refint\DAL.dll
+E:\projects\Web\B2B\MASAB2B\DAL\obj\Release\net6.0\DAL.pdb
+E:\projects\Web\B2B\MASAB2B\DAL\obj\Release\net6.0\DAL.genruntimeconfig.cache
+E:\projects\Web\B2B\MASAB2B\DAL\obj\Release\net6.0\ref\DAL.dll
+S:\servico\ServicoServer\DAL\bin\Release\net6.0\DAL.deps.json
+S:\servico\ServicoServer\DAL\bin\Release\net6.0\DAL.runtimeconfig.json
+S:\servico\ServicoServer\DAL\bin\Release\net6.0\DAL.dll
+S:\servico\ServicoServer\DAL\bin\Release\net6.0\DAL.pdb
+S:\servico\ServicoServer\DAL\obj\Release\net6.0\DAL.csproj.AssemblyReference.cache
+S:\servico\ServicoServer\DAL\obj\Release\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+S:\servico\ServicoServer\DAL\obj\Release\net6.0\DAL.AssemblyInfoInputs.cache
+S:\servico\ServicoServer\DAL\obj\Release\net6.0\DAL.AssemblyInfo.cs
+S:\servico\ServicoServer\DAL\obj\Release\net6.0\DAL.csproj.CoreCompileInputs.cache
+S:\servico\ServicoServer\DAL\obj\Release\net6.0\DAL.dll
+S:\servico\ServicoServer\DAL\obj\Release\net6.0\refint\DAL.dll
+S:\servico\ServicoServer\DAL\obj\Release\net6.0\DAL.pdb
+S:\servico\ServicoServer\DAL\obj\Release\net6.0\DAL.genruntimeconfig.cache
+S:\servico\ServicoServer\DAL\obj\Release\net6.0\ref\DAL.dll
+D:\Servico Project\servico\servico\ServicoServer\DAL\bin\Release\net6.0\DAL.deps.json
+D:\Servico Project\servico\servico\ServicoServer\DAL\bin\Release\net6.0\DAL.runtimeconfig.json
+D:\Servico Project\servico\servico\ServicoServer\DAL\bin\Release\net6.0\DAL.dll
+D:\Servico Project\servico\servico\ServicoServer\DAL\bin\Release\net6.0\DAL.pdb
+D:\Servico Project\servico\servico\ServicoServer\DAL\obj\Release\net6.0\DAL.csproj.AssemblyReference.cache
+D:\Servico Project\servico\servico\ServicoServer\DAL\obj\Release\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Servico Project\servico\servico\ServicoServer\DAL\obj\Release\net6.0\DAL.AssemblyInfoInputs.cache
+D:\Servico Project\servico\servico\ServicoServer\DAL\obj\Release\net6.0\DAL.AssemblyInfo.cs
+D:\Servico Project\servico\servico\ServicoServer\DAL\obj\Release\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\Servico Project\servico\servico\ServicoServer\DAL\obj\Release\net6.0\DAL.dll
+D:\Servico Project\servico\servico\ServicoServer\DAL\obj\Release\net6.0\refint\DAL.dll
+D:\Servico Project\servico\servico\ServicoServer\DAL\obj\Release\net6.0\DAL.pdb
+D:\Servico Project\servico\servico\ServicoServer\DAL\obj\Release\net6.0\DAL.genruntimeconfig.cache
+D:\Servico Project\servico\servico\ServicoServer\DAL\obj\Release\net6.0\ref\DAL.dll

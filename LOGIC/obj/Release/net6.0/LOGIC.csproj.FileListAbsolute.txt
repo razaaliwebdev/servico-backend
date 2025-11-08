@@ -1,0 +1,45 @@
+E:\projects\Web\B2B\MASAB2B\LOGIC\bin\Release\net6.0\LOGIC.deps.json
+E:\projects\Web\B2B\MASAB2B\LOGIC\bin\Release\net6.0\LOGIC.dll
+E:\projects\Web\B2B\MASAB2B\LOGIC\bin\Release\net6.0\LOGIC.pdb
+E:\projects\Web\B2B\MASAB2B\LOGIC\bin\Release\net6.0\DAL.dll
+E:\projects\Web\B2B\MASAB2B\LOGIC\bin\Release\net6.0\DAL.pdb
+E:\projects\Web\B2B\MASAB2B\LOGIC\obj\Release\net6.0\LOGIC.csproj.AssemblyReference.cache
+E:\projects\Web\B2B\MASAB2B\LOGIC\obj\Release\net6.0\LOGIC.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\Web\B2B\MASAB2B\LOGIC\obj\Release\net6.0\LOGIC.AssemblyInfoInputs.cache
+E:\projects\Web\B2B\MASAB2B\LOGIC\obj\Release\net6.0\LOGIC.AssemblyInfo.cs
+E:\projects\Web\B2B\MASAB2B\LOGIC\obj\Release\net6.0\LOGIC.csproj.CoreCompileInputs.cache
+E:\projects\Web\B2B\MASAB2B\LOGIC\obj\Release\net6.0\LOGIC.csproj.CopyComplete
+E:\projects\Web\B2B\MASAB2B\LOGIC\obj\Release\net6.0\LOGIC.dll
+E:\projects\Web\B2B\MASAB2B\LOGIC\obj\Release\net6.0\refint\LOGIC.dll
+E:\projects\Web\B2B\MASAB2B\LOGIC\obj\Release\net6.0\LOGIC.pdb
+E:\projects\Web\B2B\MASAB2B\LOGIC\obj\Release\net6.0\ref\LOGIC.dll
+S:\servico\ServicoServer\LOGIC\bin\Release\net6.0\LOGIC.deps.json
+S:\servico\ServicoServer\LOGIC\bin\Release\net6.0\LOGIC.dll
+S:\servico\ServicoServer\LOGIC\bin\Release\net6.0\LOGIC.pdb
+S:\servico\ServicoServer\LOGIC\bin\Release\net6.0\DAL.dll
+S:\servico\ServicoServer\LOGIC\bin\Release\net6.0\DAL.pdb
+S:\servico\ServicoServer\LOGIC\obj\Release\net6.0\LOGIC.csproj.AssemblyReference.cache
+S:\servico\ServicoServer\LOGIC\obj\Release\net6.0\LOGIC.GeneratedMSBuildEditorConfig.editorconfig
+S:\servico\ServicoServer\LOGIC\obj\Release\net6.0\LOGIC.AssemblyInfoInputs.cache
+S:\servico\ServicoServer\LOGIC\obj\Release\net6.0\LOGIC.AssemblyInfo.cs
+S:\servico\ServicoServer\LOGIC\obj\Release\net6.0\LOGIC.csproj.CoreCompileInputs.cache
+S:\servico\ServicoServer\LOGIC\obj\Release\net6.0\LOGIC.csproj.CopyComplete
+S:\servico\ServicoServer\LOGIC\obj\Release\net6.0\LOGIC.dll
+S:\servico\ServicoServer\LOGIC\obj\Release\net6.0\refint\LOGIC.dll
+S:\servico\ServicoServer\LOGIC\obj\Release\net6.0\LOGIC.pdb
+S:\servico\ServicoServer\LOGIC\obj\Release\net6.0\ref\LOGIC.dll
+D:\Servico Project\servico\servico\ServicoServer\LOGIC\bin\Release\net6.0\LOGIC.deps.json
+D:\Servico Project\servico\servico\ServicoServer\LOGIC\bin\Release\net6.0\LOGIC.dll
+D:\Servico Project\servico\servico\ServicoServer\LOGIC\bin\Release\net6.0\LOGIC.pdb
+D:\Servico Project\servico\servico\ServicoServer\LOGIC\bin\Release\net6.0\DAL.dll
+D:\Servico Project\servico\servico\ServicoServer\LOGIC\bin\Release\net6.0\DAL.pdb
+D:\Servico Project\servico\servico\ServicoServer\LOGIC\obj\Release\net6.0\LOGIC.csproj.AssemblyReference.cache
+D:\Servico Project\servico\servico\ServicoServer\LOGIC\obj\Release\net6.0\LOGIC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Servico Project\servico\servico\ServicoServer\LOGIC\obj\Release\net6.0\LOGIC.AssemblyInfoInputs.cache
+D:\Servico Project\servico\servico\ServicoServer\LOGIC\obj\Release\net6.0\LOGIC.AssemblyInfo.cs
+D:\Servico Project\servico\servico\ServicoServer\LOGIC\obj\Release\net6.0\LOGIC.csproj.CoreCompileInputs.cache
+D:\Servico Project\servico\servico\ServicoServer\LOGIC\obj\Release\net6.0\LOGIC.csproj.Up2Date
+D:\Servico Project\servico\servico\ServicoServer\LOGIC\obj\Release\net6.0\LOGIC.dll
+D:\Servico Project\servico\servico\ServicoServer\LOGIC\obj\Release\net6.0\refint\LOGIC.dll
+D:\Servico Project\servico\servico\ServicoServer\LOGIC\obj\Release\net6.0\LOGIC.pdb
+D:\Servico Project\servico\servico\ServicoServer\LOGIC\obj\Release\net6.0\ref\LOGIC.dll

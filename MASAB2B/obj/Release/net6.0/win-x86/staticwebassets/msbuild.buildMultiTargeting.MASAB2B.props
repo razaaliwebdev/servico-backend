@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MASAB2B.props" />
+</Project>

@@ -1,0 +1,477 @@
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\appsettings.Development.json
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\appsettings.json
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\MASAB2B.exe
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\MASAB2B.deps.json
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\MASAB2B.runtimeconfig.json
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\MASAB2B.dll
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\MASAB2B.pdb
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\Humanizer.dll
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Data.SqlClient.dll
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.dll
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.Design.dll
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.Relational.dll
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.Caching.Memory.dll
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Identity.Client.dll
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.IdentityModel.Logging.dll
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.IdentityModel.Protocols.dll
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.IdentityModel.Tokens.dll
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.OpenApi.dll
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Win32.SystemEvents.dll
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\Newtonsoft.Json.dll
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\Swashbuckle.AspNetCore.Swagger.dll
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\System.Configuration.ConfigurationManager.dll
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\System.Drawing.Common.dll
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\System.IdentityModel.Tokens.Jwt.dll
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\System.Runtime.Caching.dll
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\System.Security.Cryptography.ProtectedData.dll
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\System.Security.Permissions.dll
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\System.Windows.Extensions.dll
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Data.SqlClient.SNI.dll
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\DAL.dll
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\LOGIC.dll
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\LOGIC.pdb
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\DAL.pdb
+E:\projects\Web\B2B\MASAB2B\MASAB2B\obj\Release\net6.0\win-x86\MASAB2B.csproj.AssemblyReference.cache
+E:\projects\Web\B2B\MASAB2B\MASAB2B\obj\Release\net6.0\win-x86\MASAB2B.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\Web\B2B\MASAB2B\MASAB2B\obj\Release\net6.0\win-x86\MASAB2B.AssemblyInfoInputs.cache
+E:\projects\Web\B2B\MASAB2B\MASAB2B\obj\Release\net6.0\win-x86\MASAB2B.AssemblyInfo.cs
+E:\projects\Web\B2B\MASAB2B\MASAB2B\obj\Release\net6.0\win-x86\MASAB2B.csproj.CoreCompileInputs.cache
+E:\projects\Web\B2B\MASAB2B\MASAB2B\obj\Release\net6.0\win-x86\MASAB2B.MvcApplicationPartsAssemblyInfo.cs
+E:\projects\Web\B2B\MASAB2B\MASAB2B\obj\Release\net6.0\win-x86\MASAB2B.MvcApplicationPartsAssemblyInfo.cache
+E:\projects\Web\B2B\MASAB2B\MASAB2B\obj\Release\net6.0\win-x86\scopedcss\bundle\MASAB2B.styles.css
+E:\projects\Web\B2B\MASAB2B\MASAB2B\obj\Release\net6.0\win-x86\MASAB2B.csproj.CopyComplete
+E:\projects\Web\B2B\MASAB2B\MASAB2B\obj\Release\net6.0\win-x86\MASAB2B.dll
+E:\projects\Web\B2B\MASAB2B\MASAB2B\obj\Release\net6.0\win-x86\refint\MASAB2B.dll
+E:\projects\Web\B2B\MASAB2B\MASAB2B\obj\Release\net6.0\win-x86\MASAB2B.pdb
+E:\projects\Web\B2B\MASAB2B\MASAB2B\obj\Release\net6.0\win-x86\MASAB2B.genruntimeconfig.cache
+E:\projects\Web\B2B\MASAB2B\MASAB2B\obj\Release\net6.0\win-x86\ref\MASAB2B.dll
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\MailKit.dll
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\MimeKit.dll
+E:\projects\Web\B2B\MASAB2B\MASAB2B\bin\Release\net6.0\win-x86\BouncyCastle.Crypto.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\appsettings.Development.json
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\appsettings.json
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\MASAB2B.staticwebassets.endpoints.json
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\MASAB2B.exe
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\MASAB2B.deps.json
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\MASAB2B.runtimeconfig.json
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\MASAB2B.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\MASAB2B.pdb
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\BouncyCastle.Cryptography.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Humanizer.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\MailKit.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Data.SqlClient.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.Design.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Identity.Client.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.IdentityModel.Logging.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.IdentityModel.Protocols.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.IdentityModel.Tokens.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.OpenApi.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Win32.SystemEvents.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\MimeKit.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Newtonsoft.Json.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Swashbuckle.AspNetCore.Swagger.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Configuration.ConfigurationManager.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Drawing.Common.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Formats.Asn1.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.IdentityModel.Tokens.Jwt.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Runtime.Caching.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Security.Cryptography.Pkcs.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Security.Cryptography.ProtectedData.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Security.Permissions.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Text.Encoding.CodePages.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Windows.Extensions.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Data.SqlClient.SNI.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.CSharp.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.VisualBasic.Core.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.VisualBasic.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Win32.Primitives.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Win32.Registry.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.AppContext.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Buffers.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Collections.Concurrent.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Collections.Immutable.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Collections.NonGeneric.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Collections.Specialized.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Collections.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.ComponentModel.Annotations.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.ComponentModel.DataAnnotations.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.ComponentModel.EventBasedAsync.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.ComponentModel.Primitives.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.ComponentModel.TypeConverter.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.ComponentModel.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Configuration.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Console.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Core.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Data.Common.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Data.DataSetExtensions.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Data.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Diagnostics.Contracts.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Diagnostics.Debug.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Diagnostics.DiagnosticSource.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Diagnostics.FileVersionInfo.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Diagnostics.Process.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Diagnostics.StackTrace.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Diagnostics.TextWriterTraceListener.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Diagnostics.Tools.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Diagnostics.TraceSource.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Diagnostics.Tracing.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Drawing.Primitives.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Drawing.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Dynamic.Runtime.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Globalization.Calendars.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Globalization.Extensions.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Globalization.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.IO.Compression.Brotli.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.IO.Compression.FileSystem.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.IO.Compression.ZipFile.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.IO.Compression.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.IO.FileSystem.AccessControl.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.IO.FileSystem.DriveInfo.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.IO.FileSystem.Primitives.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.IO.FileSystem.Watcher.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.IO.FileSystem.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.IO.IsolatedStorage.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.IO.MemoryMappedFiles.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.IO.Pipes.AccessControl.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.IO.Pipes.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.IO.UnmanagedMemoryStream.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.IO.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Linq.Expressions.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Linq.Parallel.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Linq.Queryable.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Linq.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Memory.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Net.Http.Json.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Net.Http.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Net.HttpListener.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Net.Mail.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Net.NameResolution.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Net.NetworkInformation.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Net.Ping.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Net.Primitives.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Net.Quic.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Net.Requests.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Net.Security.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Net.ServicePoint.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Net.Sockets.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Net.WebClient.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Net.WebHeaderCollection.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Net.WebProxy.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Net.WebSockets.Client.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Net.WebSockets.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Net.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Numerics.Vectors.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Numerics.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.ObjectModel.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Private.CoreLib.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Private.DataContractSerialization.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Private.Uri.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Private.Xml.Linq.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Private.Xml.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Reflection.DispatchProxy.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Reflection.Emit.ILGeneration.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Reflection.Emit.Lightweight.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Reflection.Emit.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Reflection.Extensions.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Reflection.Metadata.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Reflection.Primitives.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Reflection.TypeExtensions.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Reflection.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Resources.Reader.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Resources.ResourceManager.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Resources.Writer.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Runtime.CompilerServices.Unsafe.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Runtime.CompilerServices.VisualC.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Runtime.Extensions.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Runtime.Handles.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Runtime.InteropServices.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Runtime.Intrinsics.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Runtime.Loader.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Runtime.Numerics.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Formatters.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Json.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Primitives.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Xml.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Runtime.Serialization.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Runtime.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Security.AccessControl.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Security.Claims.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Security.Cryptography.Algorithms.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Security.Cryptography.Cng.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Security.Cryptography.Csp.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Security.Cryptography.Encoding.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Security.Cryptography.OpenSsl.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Security.Cryptography.Primitives.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Security.Cryptography.X509Certificates.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Security.Principal.Windows.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Security.Principal.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Security.SecureString.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Security.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.ServiceModel.Web.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.ServiceProcess.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Text.Encoding.Extensions.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Text.Encoding.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Text.Encodings.Web.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Text.Json.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Text.RegularExpressions.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Threading.Channels.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Threading.Overlapped.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Threading.Tasks.Dataflow.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Threading.Tasks.Extensions.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Threading.Tasks.Parallel.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Threading.Tasks.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Threading.Thread.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Threading.ThreadPool.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Threading.Timer.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Threading.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Transactions.Local.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Transactions.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.ValueTuple.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Web.HttpUtility.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Web.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Windows.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Xml.Linq.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Xml.ReaderWriter.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Xml.Serialization.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Xml.XDocument.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Xml.XPath.XDocument.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Xml.XPath.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Xml.XmlDocument.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Xml.XmlSerializer.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Xml.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\WindowsBase.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\mscorlib.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\netstandard.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Antiforgery.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authentication.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authorization.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Components.Forms.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Components.Server.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Components.Web.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Components.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Cors.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.DataProtection.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Diagnostics.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.HostFiltering.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Hosting.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Http.Connections.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Http.Features.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Http.Results.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Http.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.HttpLogging.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Identity.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Localization.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Metadata.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Razor.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Rewrite.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Routing.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Server.IIS.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Session.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.SignalR.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.StaticFiles.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.WebSockets.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.WebUtilities.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.Caching.Memory.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Binder.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Ini.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Json.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Xml.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.DependencyInjection.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.Features.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.Hosting.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.Http.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.Identity.Core.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.Identity.Stores.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.Localization.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Configuration.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Console.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Debug.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.EventLog.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.EventSource.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.ObjectPool.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.Options.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.Primitives.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Extensions.WebEncoders.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.JSInterop.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.Net.Http.Headers.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Diagnostics.EventLog.Messages.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Diagnostics.EventLog.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.IO.Pipelines.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.Security.Cryptography.Xml.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\API-MS-Win-core-xstate-l2-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\Microsoft.DiaSymReader.Native.x86.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\System.IO.Compression.Native.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-core-console-l1-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-core-console-l1-2-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-core-datetime-l1-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-core-debug-l1-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-core-errorhandling-l1-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-core-fibers-l1-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-core-file-l1-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-core-file-l1-2-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-core-file-l2-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-core-handle-l1-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-core-heap-l1-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-core-interlocked-l1-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-core-libraryloader-l1-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-core-localization-l1-2-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-core-memory-l1-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-core-namedpipe-l1-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-core-processenvironment-l1-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-core-processthreads-l1-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-core-processthreads-l1-1-1.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-core-profile-l1-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-core-rtlsupport-l1-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-core-string-l1-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-core-synch-l1-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-core-synch-l1-2-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-core-sysinfo-l1-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-core-timezone-l1-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-core-util-l1-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-crt-conio-l1-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-crt-convert-l1-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-crt-environment-l1-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-crt-filesystem-l1-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-crt-heap-l1-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-crt-locale-l1-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-crt-math-l1-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-crt-multibyte-l1-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-crt-private-l1-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-crt-process-l1-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-crt-runtime-l1-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-crt-stdio-l1-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-crt-string-l1-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-crt-time-l1-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\api-ms-win-crt-utility-l1-1-0.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\clretwrc.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\clrjit.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\coreclr.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\createdump.exe
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\dbgshim.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\hostfxr.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\hostpolicy.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\mscordaccore.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\mscordaccore_x86_x86_6.0.3624.51421.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\mscordbi.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\mscorrc.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\msquic.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\ucrtbase.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\aspnetcorev2_inprocess.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\DAL.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\LOGIC.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\LOGIC.pdb
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\bin\Release\net6.0\win-x86\DAL.pdb
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\obj\Release\net6.0\win-x86\MASAB2B.csproj.AssemblyReference.cache
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\obj\Release\net6.0\win-x86\MASAB2B.GeneratedMSBuildEditorConfig.editorconfig
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\obj\Release\net6.0\win-x86\MASAB2B.AssemblyInfoInputs.cache
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\obj\Release\net6.0\win-x86\MASAB2B.AssemblyInfo.cs
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\obj\Release\net6.0\win-x86\MASAB2B.csproj.CoreCompileInputs.cache
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\obj\Release\net6.0\win-x86\MASAB2B.MvcApplicationPartsAssemblyInfo.cs
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\obj\Release\net6.0\win-x86\MASAB2B.MvcApplicationPartsAssemblyInfo.cache
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\obj\Release\net6.0\win-x86\scopedcss\bundle\MASAB2B.styles.css
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\obj\Release\net6.0\win-x86\staticwebassets.build.json
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\obj\Release\net6.0\win-x86\staticwebassets.development.json
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\obj\Release\net6.0\win-x86\staticwebassets.build.endpoints.json
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\obj\Release\net6.0\win-x86\staticwebassets\msbuild.MASAB2B.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\obj\Release\net6.0\win-x86\staticwebassets\msbuild.MASAB2B.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\obj\Release\net6.0\win-x86\staticwebassets\msbuild.build.MASAB2B.props
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\obj\Release\net6.0\win-x86\staticwebassets\msbuild.buildMultiTargeting.MASAB2B.props
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\obj\Release\net6.0\win-x86\staticwebassets\msbuild.buildTransitive.MASAB2B.props
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\obj\Release\net6.0\win-x86\staticwebassets.pack.json
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\obj\Release\net6.0\win-x86\staticwebassets.upToDateCheck.txt
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\obj\Release\net6.0\win-x86\MASAB2B.csproj.Up2Date
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\obj\Release\net6.0\win-x86\MASAB2B.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\obj\Release\net6.0\win-x86\refint\MASAB2B.dll
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\obj\Release\net6.0\win-x86\MASAB2B.pdb
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\obj\Release\net6.0\win-x86\MASAB2B.genruntimeconfig.cache
+D:\Servico Project\servico\servico\ServicoServer\MASAB2B\obj\Release\net6.0\win-x86\ref\MASAB2B.dll

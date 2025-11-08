@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>S:\servico\ServicoServer\MASAB2B\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2024-12-19T16:15:51.4354855Z;True|2024-12-19T20:14:08.9033859+04:00;True|2024-12-13T15:29:37.7091247+04:00;True|2024-10-15T14:47:32.5318751+04:00;True|2024-10-15T14:34:55.1098621+04:00;False|2024-10-15T14:34:41.6187101+04:00;</History>
+  </PropertyGroup>
+</Project>
